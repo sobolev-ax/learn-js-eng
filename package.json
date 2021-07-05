@@ -1,0 +1,19 @@
+{
+  "name": "learn-js-eng",
+  "version": "1.0.0",
+  "description": "https://javascript.info/",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sobolev-ax/learn-js-eng.git"
+  },
+  "author": "sobolev.ax@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sobolev-ax/learn-js-eng/issues"
+  },
+  "homepage": "https://github.com/sobolev-ax/learn-js-eng#readme"
+}
